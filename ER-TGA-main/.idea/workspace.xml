@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55ee30c1-4e2b-4a47-b436-5e1e51f0e993" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Auto_Run_Scripts.sh" beforeDir="false" afterPath="$PROJECT_DIR$/code/Auto_Run_Scripts.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/GA4ER.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/PQAGA4ER.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class1.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class2.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class3.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class4.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class5.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class6.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class7.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cast_study/Class8.xls" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ngJrrCAi7uUCuExv37BpI0VfaA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ee30c1-4e2b-4a47-b436-5e1e51f0e993" name="Changes" comment="" />
+      <created>1729388987713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729388987713</updated>
+    </task>
+    <servers />
+  </component>
+</project>
